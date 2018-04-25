@@ -1,0 +1,7 @@
+git clone https://github.com/AbhishekRathore311/Uniform_Detection.git
+git init
+git status -s
+git add .
+git commit -m "First commit"
+git push origin master
+URL: https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/
